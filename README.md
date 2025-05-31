@@ -8,7 +8,7 @@ The data is organized in the following format:
 
 ```text
 /workpiece3D/
-└── sequences/
+    └── sequences/
         ├── fusion1.txt
         ├── fusion2.txt
         ├── fusion3.txt
