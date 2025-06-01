@@ -3,9 +3,8 @@
 This workpiece dataset contains 748 point cloud models of pipe bends with various surface protrusion defects.
 
 ## 📥 Download
-- **Google Drive**: [Download Link](https://drive.google.com/drive/folders/1sdWRsMgCXp_2RwAme9A3y3k8K9wGhQmO?usp=drive_link)  
+- **Google Drive**: [Download Link](https://drive.google.com/drive/folders/1sdWRsMgCXp_2RwAme9A3y3k8K9wGhQmO?usp=sharing)  
 
-  
 ## Data Organization
 
 The data is organized in the following format:
