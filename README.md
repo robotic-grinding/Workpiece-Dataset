@@ -10,7 +10,7 @@ This dataset contains 1710 point cloud models of casting workpieces, including 7
 The data is organized in the following format:
 
 ```text
-/workpiece3D/
+/workpiece/
     └── pipe bend/
         ├── pipe1.txt
         ├── pipe2.txt
